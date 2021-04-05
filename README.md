@@ -6,7 +6,7 @@
 
 ## Description
 
-This application uses React to create a component based application that allows users to search by ingredient to find recipes with ingredient lists, instructions and images of the end meal. This was an exercise in utilising react componenets and pulling from an external API.
+This application uses React to create a component based application that allows users to search by ingredient to find recipes with ingredient lists, instructions and images of the end meal. This was an exercise in utilising react components and pulling from an external API. 
 
 ## Screenshots
 ![Screenshot of the Recipe Finder Application.](src//images/screenshot1.png "Screenshot of the Recipe Finder")
